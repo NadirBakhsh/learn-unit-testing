@@ -53,3 +53,4 @@ Let's dive deeper into the world of unit testing and fortify your skills step by
 
 ### Jest Frameworks 
 - [step_01_hello_world](https://github.com/NadirBakhsh/learn-unit-testing/pull/1)
+- [step_02_add_two_numbers](https://github.com/NadirBakhsh/learn-unit-testing/tree/main/step_02_add_two_numbers)
